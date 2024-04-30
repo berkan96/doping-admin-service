@@ -12,6 +12,11 @@ Tests can be added to the system. Changes can be made to the tests. All test per
 - Swagger
 - H2 Database
 
+## Important Endpoints
+- Create Student.
+<img width="1314" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/72813562-9188-4c3b-a1e8-6df11156c101">
+
+
 ## Caching
 The student wants to view all test performances. After this process, the data is cached for 20 minutes because testing times will not be less than 20 minutes. So that a new test result is added after the cache time
 
