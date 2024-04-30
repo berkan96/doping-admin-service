@@ -1,0 +1,4 @@
+com/doping/admin/DopingAdminServiceApplicationTests.class
+com/doping/admin/service/ExamServiceTest.class
+com/doping/admin/service/StudentServiceTest.class
+com/doping/admin/service/ExamResultServiceTest.class
