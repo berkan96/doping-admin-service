@@ -14,16 +14,23 @@ Tests can be added to the system. Changes can be made to the tests. All test per
 
 ## Important Endpoints
 - Create Student.
-<img width="1314" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/72813562-9188-4c3b-a1e8-6df11156c101">
+<img width="1491" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/00a4e354-3154-4369-b353-1a4d53587a21">
+
+- The test is recorded in the system.
+  <img width="1463" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/9a3fbc11-d817-409d-828b-1198beece129">
 
 - The student sends the test she solved
-  <img width="1445" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/5c399609-e383-430b-8e83-f2ecd624113f">
+  <img width="1482" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/abb54d4b-9845-44d0-8982-bf9a77e148cc">
+
 - The student examines performance in the test solved.
-  <img width="1463" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/185472dc-2b2d-4a43-b1e5-77191d178653">
+  <img width="1528" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/98b5bf3a-09bc-4275-86bc-8f5a2012d416">
+
 - The student can check performance on all the tests
-  <img width="1467" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/285a0384-6b10-4293-af2e-f6fb01d9c00f">
+  <img width="1440" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/5480b245-3853-4dc8-902b-9eb43db3a84e">
+
 - The student can check performance or answers for tests
-  <img width="1410" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/9ad0eadf-c72e-4fa3-b46e-737fe85794f1">
+  <img width="1429" alt="image" src="https://github.com/berkan96/doping-admin-service/assets/79544583/e581a80d-3b01-4fde-805b-86ac66859c0f">
+
 
 
 
